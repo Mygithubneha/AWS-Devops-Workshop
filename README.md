@@ -10,6 +10,7 @@ What You'll Find:
 💻 Code Samples: Reusable code snippets for common AWS tasks.
 
 Highlights:
+
 🖥️ Compute: EC2 instances, Lambda functions, and Auto Scaling.
 📦 Storage: S3 buckets, EBS volumes, and Glacier archives.
 🗄️ Databases: RDS, DynamoDB, and Aurora.
