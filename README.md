@@ -24,6 +24,6 @@ Explore: Browse the folders and files to discover various AWS projects and tutor
 Learn and Implement: Follow the guides and implement the projects to gain hands-on experience.
 
 📺 YouTube Playlist:
-Check thid AWS Learning Playlist on YouTube for additional video tutorials and walkthroughs. Special thanks to the creator who made these videos possible!
+Check thid [AWS Learning Playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) on YouTube for additional video tutorials and walkthroughs. Special thanks to the creator who made these videos possible!
 
 Feel free to contribute by opening issues or submitting pull requests. Let's learn and grow together in the AWS cloud! ☁️🚀
