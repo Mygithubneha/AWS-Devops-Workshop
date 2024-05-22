@@ -20,7 +20,7 @@ Highlights:
 🤖 Machine Learning: SageMaker projects and AI service integrations.
 
 Get Started:
-Clone the Repository: git clone https://github.com/yourusername/aws-learning-projects.git
+Clone the Repository: git clone https://github.com/Mygithubneha/AWS-Devops-Workshop.git
 Explore: Browse the folders and files to discover various AWS projects and tutorials.
 Learn and Implement: Follow the guides and implement the projects to gain hands-on experience.
 
